@@ -55,13 +55,13 @@ I am a frontend developer with a strong passion for creating user-centric digita
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/daniyalaneeqahmed" target="_blank">
+   <a href="https://www.linkedin.com/in/daniyal-aneeq-ahmed-3868452b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/daniyalaneeqahmed" target="_blank">
+  <a href="https://www.facebook.com/daniyalaneeq.ahmed" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/daniyalaneeqahmed" target="_blank">
+  <a href="https://www.instagram.com/daniyalaneeq/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
