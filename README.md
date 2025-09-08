@@ -1,5 +1,5 @@
 <h1 align="center">Daniyal Aneeq Ahmed</h1>
-<h3 align="center">Frontend Developer | Agentic AI Enthusiast </h3>
+<h3 align="center">Agentic AI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daniyalaneeq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
