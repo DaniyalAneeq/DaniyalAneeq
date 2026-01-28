@@ -24,10 +24,10 @@
 <hr>
 
 ## Niche Technical Skills
-*cloud platforms*: Amazon Web Services (AWS)
-*Programming languages & Scripting*: Python, SQL, TypeScript, Linux (Shell Scripting)
-*Data Analysis*:  Pandas, Numpy, Matplotlib, BeautifulSoap, Selenium
-*Tools*: Docker, Snowflake, Git 
+- **cloud platforms**: Amazon Web Services (AWS)
+- **Programming languages & Scripting**: Python, SQL, TypeScript, Linux (Shell Scripting)
+- **Data Analysis**:  Pandas, Numpy, Matplotlib, BeautifulSoap, Selenium
+- **Tools**: Docker, Snowflake, Git 
 
 ##  Additional Technical Competencies
 
