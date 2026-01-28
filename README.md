@@ -1,11 +1,3 @@
-<!-- =============================== -->
-
-<!-- GitHub Profile README (HTML) -->
-
-<!-- Daniyal Aneeq Ahmed            -->
-
-<!-- =============================== -->
-
 <div align="center">
 
 <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
@@ -62,7 +54,6 @@
     margin-top: 10px;
   }
 
-  /* SOCIALS */
   .socials {
     margin-top: 16px;
   }
@@ -138,8 +129,6 @@
 
 <div class="container handwritten">
 
-  <!-- HERO SECTION -->
-
   <div class="hero">
     <div class="name">👋 Daniyal Aneeq Ahmed</div>
     <div class="role">Cloud Data Engineer</div>
@@ -147,14 +136,12 @@
       Designing scalable cloud data platforms, intelligent pipelines, and decentralized integrations.
     </div>
 
-```
 <div class="socials">
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
-```
 
   </div>
 
@@ -162,7 +149,6 @@
 
   <div class="grid">
 
-```
 <div class="card">
   <div class="title">🚀 About Me</div>
   <ul>
