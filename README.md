@@ -16,89 +16,33 @@
   <li>Expertise in delivering high-performance data infrastructure that directly impacts business outcomes</li>
   <li>Proven success in designing cloud-based data pipelines, implementing scalable data architectures, and optimizing data workflows for efficiency and reliability</li>
   <li>Skilled in leveraging AWS, Snowflake, and SQL Server to transform business requirements into technical solutions that drive measurable improvements in scalability, performance, and data accessibility</li>
+  <li>Focused on cloud-native data architecture, real-time processing, cost-efficient scaling</li>
+  <li>Actively exploring autonomous agents, LLM orchestration, and agent development</li>
 </ul>
 </div>
 
 <hr>
 
-## 🌟 Professional Summary
+## Niche Technical Skills
+####*cloud platforms*: Amazon Web Services (AWS)
+####*Programming languages & Scripting*: Python, SQL, TypeScript, Linux (Shell Scripting)
+####*Data Analysis*:  Pandas, Numpy, Matplotlib, BeautifulSoap, Selenium
+####*Tools*: Docker, Snowflake, Git 
 
-Cloud Data Engineer with hands-on experience designing, building and maintaining production-grade data pipelines in cloud-native environments.  
-Passionate about combining modern data engineering with **Agentic AI** workflows and **Web3** technologies to create next-generation intelligent & decentralized data systems.
+##  Additional Technical Competencies
 
-- 📍 Based in **Karachi, Pakistan**
-- 💼 Focused on **cloud-native data architecture**, **real-time processing**, **cost-efficient scaling**
-- 🔮 Actively exploring **autonomous agents**, **LLM orchestration**, **decentralized data layers**
+### *Agentic AI & Autonomous Systems*
 
-## 🛠 Core Expertise – Cloud Data Engineering
+- OpenAI Agents SDK
+- Multi-agent orchestration 
+- Tool-use patterns
+- Chatbot Development
+- 
+### ⛓️ *Web - Technologies*
 
-<table>
-  <tr>
-    <th width="240">Category</th>
-    <th>Technologies & Tools</th>
-  </tr>
-  <tr>
-    <td><strong>Cloud Platforms</strong></td>
-    <td>AWS (Glue, EMR, Athena, Lambda, S3, Redshift, Step Functions)<br>Azure (Data Factory, Synapse, Databricks, ADLS)<br>GCP (BigQuery, Dataflow, Composer, Cloud Storage)</td>
-  </tr>
-  <tr>
-    <td><strong>Data Orchestration</strong></td>
-    <td>Apache Airflow • Prefect • Dagster • AWS Step Functions • Azure Data Factory</td>
-  </tr>
-  <tr>
-    <td><strong>Processing Engines</strong></td>
-    <td>Apache Spark • Databricks • Snowflake • Trino/Presto • dbt Core & Cloud</td>
-  </tr>
-  <tr>
-    <td><strong>Streaming & Messaging</strong></td>
-    <td>Apache Kafka • AWS Kinesis • Azure Event Hubs • RabbitMQ</td>
-  </tr>
-  <tr>
-    <td><strong>Data Modeling & Quality</strong></td>
-    <td>dbt • Great Expectations • Soda • Monte Carlo • Datafold</td>
-  </tr>
-  <tr>
-    <td><strong>IaC & DevOps</strong></td>
-    <td>Terraform • GitHub Actions • Docker • Kubernetes (basic) • ArgoCD</td>
-  </tr>
-</table>
-
-## 🚀 Additional Technical Competencies
-
-### 🤖 Agentic AI & Autonomous Systems
-
-- LangChain / LangGraph / CrewAI / AutoGen
-- Multi-agent orchestration & tool-use patterns
-- LLM fine-tuning & RAG pipelines (LlamaIndex, Haystack)
-- Reasoning & planning loops (ReAct, Reflexion, Tree-of-Thought)
-- Evaluation frameworks (LangSmith, DeepEval, Promptfoo)
-
-### ⛓️ Web3 & Blockchain Engineering
-
-- Solidity (smart contracts, ERC-20 / ERC-721 / ERC-1155)
-- Hardhat / Foundry / Remix
-- Web3.js / Ethers.js / viem
-- IPFS & Filecoin integration
-- Chainlink oracles • The Graph indexing
-- Layer 2 solutions (Polygon, Arbitrum, Optimism)
-
-### 📊 General Engineering Skills
-
-- **Languages**: Python (advanced), SQL, TypeScript/JavaScript
-- **Databases**: PostgreSQL, Snowflake, MongoDB, Redis, DynamoDB
-- **BI & Visualization**: Looker / Looker Studio, Power BI, Metabase
-- **ML basics**: scikit-learn, PyTorch (light), Hugging Face Transformers
-
-## 🧪 Selected Project Highlights
-
-- **Real-time Supply Chain Analytics Platform**  
-  Kafka → Spark Streaming → Delta Lake → dbt → Snowflake → Looker
-
-- **Agentic Customer Intelligence Engine**  
-  Multi-agent system (research + summarization + action agents) built with LangGraph & GPT-4o
-
-- **Decentralized Data Oracle PoC**  
-  Chainlink Functions + IPFS + Solidity contract feeding on-chain analytics
+- *Frameworks*: NextJS, ReactJS 
+- *Languages*: JavaScript, TypeScript, Python
+- *Libraries*: Tailwind CSS, Shadcn UI 
 
 (Links & detailed READMEs available in pinned repositories)
 
@@ -115,4 +59,4 @@ Passionate about combining modern data engineering with **Agentic AI** workflows
 </p>
 
 ---
-Made with focus & ☁️ in Karachi • Last updated January 2026
+Made with focus ☁️  • Last updated January 2026
