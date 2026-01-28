@@ -8,7 +8,7 @@
   </h2>
 </div>
 
-<div align="left" style="margin: 30px 0;"> <div class="socials"> <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:danialeaneeqahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a> </div> </div>
+<div align="left" style="margin: 30px 0;"> <div class="socials"> <a href="https://www.facebook.com/daniyalaneeq.ahmed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> <a href="https://x.com/Dani83342"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/daniyal-aneeq-ahmed-3868452b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:danialeaneeqahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a> </div> </div>
 <br>
 
 <div style="padding-left: 20px; margin: 15px 0;">
@@ -24,10 +24,10 @@
 <hr>
 
 ## Niche Technical Skills
-####*cloud platforms*: Amazon Web Services (AWS)
-####*Programming languages & Scripting*: Python, SQL, TypeScript, Linux (Shell Scripting)
-####*Data Analysis*:  Pandas, Numpy, Matplotlib, BeautifulSoap, Selenium
-####*Tools*: Docker, Snowflake, Git 
+*cloud platforms*: Amazon Web Services (AWS)
+*Programming languages & Scripting*: Python, SQL, TypeScript, Linux (Shell Scripting)
+*Data Analysis*:  Pandas, Numpy, Matplotlib, BeautifulSoap, Selenium
+*Tools*: Docker, Snowflake, Git 
 
 ##  Additional Technical Competencies
 
@@ -49,9 +49,9 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/daniyalaneeq">LinkedIn</a> • 
-  <a href="https://x.com/yourusername">X / Twitter</a> • 
-  <a href="mailto:daniyal.aneeq.ahmed@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/daniyalaneeq](https://www.linkedin.com/in/daniyal-aneeq-ahmed-3868452b7/">LinkedIn</a> • 
+  <a href="[https://x.com/daniyalaneeq](https://x.com/Dani83342)">X / Twitter</a> • 
+  <a href="mailto:daniyalaneeqahmed@gmail.com">Email</a>
 </p>
 
 <p align="center">
