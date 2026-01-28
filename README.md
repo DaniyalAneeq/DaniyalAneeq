@@ -1,4 +1,4 @@
-# Daniyal Aneeq Ahmed
+<h1 align="center" text='20px'> Daniyal Aneeq Ahmed </h1>
 
 <p align="center">
   <a href="https://facebook.com/yourusername">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <strong>Cloud Data Engineer</strong>  •  Agentic AI  •  Web3 & Decentralized Systems
+  <strong>Cloud Data Engineer</strong> 
 </p>
 
 <p align="center">
