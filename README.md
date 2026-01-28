@@ -1,6 +1,6 @@
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=46&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Daniyal+Aneeq+Ahmed&cursor=false"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=46&pause=1000000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Daniyal+Aneeq+Ahmed&cursor=false"
     alt="Daniyal Aneeq Ahmed"
   />
 </p>
