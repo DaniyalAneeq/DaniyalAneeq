@@ -5,7 +5,7 @@
   />
 </p>
 
-<p align="center" style="font-size: 22px; margin: 10px 0;">
+<p align="center" style="font-size: 38px; margin: 10px 0;">
   <strong>Cloud Data Engineer</strong> 
 </p>
 
