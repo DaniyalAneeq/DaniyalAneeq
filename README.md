@@ -1,11 +1,10 @@
 <div align="left">
-  <img 
+  <img
     src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=36&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=620&lines=Daniyal+Aneeq+Ahmed&cursor=false"
-    alt="I'm Daniyal Aneeq Ahmed"
+    alt="Daniyal Aneeq Ahmed"
   />
-  <br><br>
-  <h2 style="color: #8899aa; font-size: 1.1em; font-weight: 500;">
-    Cloud Data Engineer 
+  <h2 align="left" style="margin-top: 4px; margin-bottom: 28px; color: #8899aa; font-size: 1.1em; font-weight: 500;">
+    Cloud Data Engineer
   </h2>
 </div>
 
