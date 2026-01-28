@@ -1,74 +1,122 @@
-<h1 align="center">Daniyal Aneeq Ahmed</h1>
-<h3 align="center">Agentic AI Developer</h3>
+# Daniyal Aneeq Ahmed
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniyalaneeq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" alt="developer gif" width="400" />
-</p>
-
----
-
-## About Me
-
-I am a frontend developer with a strong passion for creating user-centric digital experiences with modern technologies. Currently, I'm exploring the world of Agentic AI using OpenAI's Agents SDK and diving deeper into building intelligent that can solve real world problems and reduce human workloads.
-
-- 🔬 Currently learning: **OpenAI Agents SDK**
-- 💼 Looking for opportunities in **Frontend Development** and **AI-driven applications**
-- 📧 Email: [daniyalaneeqahmed@gmail.com](mailto:daniyalaneeqahmed@gmail.com)
-
----
-
-## Skills & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalaneeq&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalaneeq&layout=compact&theme=github_dark" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalaneeq&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/daniyal-aneeq-ahmed-3868452b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/daniyalaneeq.ahmed" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/daniyalaneeq/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://facebook.com/yourusername">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" height="28"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/daniyalaneeq">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:daniyal.aneeq.ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
   </a>
 </p>
 
----
-
+<p align="center">
+  <strong>Cloud Data Engineer</strong>  •  Agentic AI  •  Web3 & Decentralized Systems
+</p>
 
 <p align="center">
-  Lets build together! <strong>Daniyal Aneeq Ahmed</strong>
+  <em>Building scalable data infrastructure • Creating intelligent autonomous agents • Exploring blockchain-powered data solutions</em>
 </p>
+
+<hr>
+
+## 🌟 Professional Summary
+
+Cloud Data Engineer with hands-on experience designing, building and maintaining production-grade data pipelines in cloud-native environments.  
+Passionate about combining modern data engineering with **Agentic AI** workflows and **Web3** technologies to create next-generation intelligent & decentralized data systems.
+
+- 📍 Based in **Karachi, Pakistan**
+- 💼 Focused on **cloud-native data architecture**, **real-time processing**, **cost-efficient scaling**
+- 🔮 Actively exploring **autonomous agents**, **LLM orchestration**, **decentralized data layers**
+
+## 🛠 Core Expertise – Cloud Data Engineering
+
+<table>
+  <tr>
+    <th width="240">Category</th>
+    <th>Technologies & Tools</th>
+  </tr>
+  <tr>
+    <td><strong>Cloud Platforms</strong></td>
+    <td>AWS (Glue, EMR, Athena, Lambda, S3, Redshift, Step Functions)<br>Azure (Data Factory, Synapse, Databricks, ADLS)<br>GCP (BigQuery, Dataflow, Composer, Cloud Storage)</td>
+  </tr>
+  <tr>
+    <td><strong>Data Orchestration</strong></td>
+    <td>Apache Airflow • Prefect • Dagster • AWS Step Functions • Azure Data Factory</td>
+  </tr>
+  <tr>
+    <td><strong>Processing Engines</strong></td>
+    <td>Apache Spark • Databricks • Snowflake • Trino/Presto • dbt Core & Cloud</td>
+  </tr>
+  <tr>
+    <td><strong>Streaming & Messaging</strong></td>
+    <td>Apache Kafka • AWS Kinesis • Azure Event Hubs • RabbitMQ</td>
+  </tr>
+  <tr>
+    <td><strong>Data Modeling & Quality</strong></td>
+    <td>dbt • Great Expectations • Soda • Monte Carlo • Datafold</td>
+  </tr>
+  <tr>
+    <td><strong>IaC & DevOps</strong></td>
+    <td>Terraform • GitHub Actions • Docker • Kubernetes (basic) • ArgoCD</td>
+  </tr>
+</table>
+
+## 🚀 Additional Technical Competencies
+
+### 🤖 Agentic AI & Autonomous Systems
+
+- LangChain / LangGraph / CrewAI / AutoGen
+- Multi-agent orchestration & tool-use patterns
+- LLM fine-tuning & RAG pipelines (LlamaIndex, Haystack)
+- Reasoning & planning loops (ReAct, Reflexion, Tree-of-Thought)
+- Evaluation frameworks (LangSmith, DeepEval, Promptfoo)
+
+### ⛓️ Web3 & Blockchain Engineering
+
+- Solidity (smart contracts, ERC-20 / ERC-721 / ERC-1155)
+- Hardhat / Foundry / Remix
+- Web3.js / Ethers.js / viem
+- IPFS & Filecoin integration
+- Chainlink oracles • The Graph indexing
+- Layer 2 solutions (Polygon, Arbitrum, Optimism)
+
+### 📊 General Engineering Skills
+
+- **Languages**: Python (advanced), SQL, TypeScript/JavaScript
+- **Databases**: PostgreSQL, Snowflake, MongoDB, Redis, DynamoDB
+- **BI & Visualization**: Looker / Looker Studio, Power BI, Metabase
+- **ML basics**: scikit-learn, PyTorch (light), Hugging Face Transformers
+
+## 🧪 Selected Project Highlights
+
+- **Real-time Supply Chain Analytics Platform**  
+  Kafka → Spark Streaming → Delta Lake → dbt → Snowflake → Looker
+
+- **Agentic Customer Intelligence Engine**  
+  Multi-agent system (research + summarization + action agents) built with LangGraph & GPT-4o
+
+- **Decentralized Data Oracle PoC**  
+  Chainlink Functions + IPFS + Solidity contract feeding on-chain analytics
+
+(Links & detailed READMEs available in pinned repositories)
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/daniyalaneeq">LinkedIn</a> • 
+  <a href="https://x.com/yourusername">X / Twitter</a> • 
+  <a href="mailto:daniyal.aneeq.ahmed@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <em>Always open to interesting problems in data engineering, autonomous AI agents, and decentralized data infrastructure.</em>
+</p>
+
+---
+Made with focus & ☁️ in Karachi • Last updated January 2026
