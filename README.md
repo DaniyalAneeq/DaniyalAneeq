@@ -1,11 +1,15 @@
-<p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=46&pause=1000000&color=FFFFFF&center=false&vCenter=false&width=800&lines=Daniyal+Aneeq+Ahmed&cursor=false"
+<div align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=48&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Daniyal+Aneeq+Ahmed&cursor=false"
     alt="Daniyal Aneeq Ahmed"
   />
-</p>
+  <br>
+  <span style="color: #94a3b8; font-size: 1.25em; font-weight: 400; letter-spacing: 0.8px;">
+    Cloud Data Engineer  •  Agentic AI  •  Web3
+  </span>
+</div>
 
-<h1 align="center" style="margin-top: -10px; color: #8899aa; font-size: 0.5em;">Cloud Data Engineer</h1>
+<br>
 
 
 <div align="center" style="margin: 30px 0;"> <div class="socials"> <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:danialeaneeqahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a> </div> </div><style> .socials { margin-top: 16px; } .socials img { margin: 6px; transition: transform .25s ease, filter .25s ease; } .socials img:hover { transform: scale(1.15) rotate(-2deg); filter: brightness(1.2); } </style>
