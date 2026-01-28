@@ -12,20 +12,11 @@
 <br>
 
 <div style="padding-left: 20px; margin: 15px 0;">
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-      <span style="position: absolute; left: 0; color: #2E8B57;">•</span>
-      <strong>Expertise in delivering high-performance data infrastructure</strong> that directly impacts business outcomes
-    </li>
-    <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-      <span style="position: absolute; left: 0; color: #2E8B57;">•</span>
-      <strong>Proven success in designing cloud-based data pipelines</strong>, implementing scalable data architectures, and optimizing data workflows for efficiency and reliability
-    </li>
-    <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-      <span style="position: absolute; left: 0; color: #2E8B57;">•</span>
-      <strong>Skilled in leveraging AWS, Snowflake, and SQL Server</strong> to transform business requirements into technical solutions that drive measurable improvements in scalability, performance, and data accessibility
-    </li>
-  </ul>
+<ul>
+  <li>Expertise in delivering high-performance data infrastructure that directly impacts business outcomes</li>
+  <li>Proven success in designing cloud-based data pipelines, implementing scalable data architectures, and optimizing data workflows for efficiency and reliability</li>
+  <li>Skilled in leveraging AWS, Snowflake, and SQL Server to transform business requirements into technical solutions that drive measurable improvements in scalability, performance, and data accessibility</li>
+</ul>
 </div>
 
 <hr>
