@@ -1,11 +1,11 @@
 <div align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=38&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Daniyal+Aneeq+Ahmed&cursor=false"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=36&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=620&lines=Daniyal+Aneeq+Ahmed&cursor=false"
     alt="Daniyal Aneeq Ahmed"
   />
-  <br>
-  <span style="color: #94a3b8; font-size: 1.25em; font-weight: 400; letter-spacing: 0.8px;">
-    Cloud Data Engineer  •  Agentic AI  •  Web3
+  <br><br>
+  <span style="color: #94a3b8; font-size: 1.2em; font-weight: 400;">
+    Cloud Data Engineer • Agentic AI • Web3
   </span>
 </div>
 
