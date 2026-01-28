@@ -4,7 +4,7 @@
     alt="I'm Daniyal Aneeq Ahmed"
   />
   <br><br>
-  <span style="color: #94a3b8; font-size: 1.2em; font-weight: 400;">
+  <span style="color: #8899aa; font-size: 1.1em; font-weight: 500;">
     Cloud Data Engineer 
   </span>
 </div>
