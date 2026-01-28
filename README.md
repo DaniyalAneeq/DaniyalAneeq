@@ -5,26 +5,13 @@
   />
 </p>
 
-
-
-<p align="center">
-  <a href="https://facebook.com/yourusername">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/daniyalaneeq">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:daniyal.aneeq.ahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
-  </a>
-</p>
-
 <p align="center">
   <strong>Cloud Data Engineer</strong> 
 </p>
+
+<div align="center" style="margin: 30px 0;"> <div class="socials"> <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:danialeaneeqahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a> </div> </div><style> .socials { margin-top: 16px; } .socials img { margin: 6px; transition: transform .25s ease, filter .25s ease; } .socials img:hover { transform: scale(1.15) rotate(-2deg); filter: brightness(1.2); } </style>
+
+
 
 <p align="center">
   <em>Building scalable data infrastructure • Creating intelligent autonomous agents • Exploring blockchain-powered data solutions</em>
