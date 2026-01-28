@@ -1,122 +1,227 @@
-<h1 align="center" text='20px'> Daniyal Aneeq Ahmed </h1>
+<!-- =============================== -->
 
-<p align="center">
-  <a href="https://facebook.com/yourusername">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/daniyalaneeq">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:daniyal.aneeq.ahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
-  </a>
-</p>
+<!-- GitHub Profile README (HTML) -->
 
-<p align="center">
-  <strong>Cloud Data Engineer</strong> 
-</p>
+<!-- Daniyal Aneeq Ahmed            -->
 
-<p align="center">
-  <em>Building scalable data infrastructure • Creating intelligent autonomous agents • Exploring blockchain-powered data solutions</em>
-</p>
+<!-- =============================== -->
 
-<hr>
+<div align="center">
 
-## 🌟 Professional Summary
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
 
-Cloud Data Engineer with hands-on experience designing, building and maintaining production-grade data pipelines in cloud-native environments.  
-Passionate about combining modern data engineering with **Agentic AI** workflows and **Web3** technologies to create next-generation intelligent & decentralized data systems.
+<style>
+  :root {
+    --bg-main: #0b0f19;
+    --bg-card: #11162a;
+    --accent: #6cf2c2;
+    --accent-soft: rgba(108,242,194,.15);
+    --text-main: #e7e9f0;
+    --text-muted: #aab0c0;
+  }
 
-- 📍 Based in **Karachi, Pakistan**
-- 💼 Focused on **cloud-native data architecture**, **real-time processing**, **cost-efficient scaling**
-- 🔮 Actively exploring **autonomous agents**, **LLM orchestration**, **decentralized data layers**
+  .handwritten {
+    font-family: 'Patrick Hand', cursive;
+    color: var(--text-main);
+    line-height: 1.5;
+  }
 
-## 🛠 Core Expertise – Cloud Data Engineering
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+  }
 
-<table>
-  <tr>
-    <th width="240">Category</th>
-    <th>Technologies & Tools</th>
-  </tr>
-  <tr>
-    <td><strong>Cloud Platforms</strong></td>
-    <td>AWS (Glue, EMR, Athena, Lambda, S3, Redshift, Step Functions)<br>Azure (Data Factory, Synapse, Databricks, ADLS)<br>GCP (BigQuery, Dataflow, Composer, Cloud Storage)</td>
-  </tr>
-  <tr>
-    <td><strong>Data Orchestration</strong></td>
-    <td>Apache Airflow • Prefect • Dagster • AWS Step Functions • Azure Data Factory</td>
-  </tr>
-  <tr>
-    <td><strong>Processing Engines</strong></td>
-    <td>Apache Spark • Databricks • Snowflake • Trino/Presto • dbt Core & Cloud</td>
-  </tr>
-  <tr>
-    <td><strong>Streaming & Messaging</strong></td>
-    <td>Apache Kafka • AWS Kinesis • Azure Event Hubs • RabbitMQ</td>
-  </tr>
-  <tr>
-    <td><strong>Data Modeling & Quality</strong></td>
-    <td>dbt • Great Expectations • Soda • Monte Carlo • Datafold</td>
-  </tr>
-  <tr>
-    <td><strong>IaC & DevOps</strong></td>
-    <td>Terraform • GitHub Actions • Docker • Kubernetes (basic) • ArgoCD</td>
-  </tr>
-</table>
+  /* HERO */
+  .hero {
+    background: linear-gradient(135deg, #1a1f3c, #0f1330);
+    border-radius: 18px;
+    padding: 32px 24px;
+    box-shadow: 0 14px 40px rgba(0,0,0,.45);
+    transition: transform .4s ease, box-shadow .4s ease;
+  }
+  .hero:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 22px 60px rgba(0,0,0,.6);
+  }
 
-## 🚀 Additional Technical Competencies
+  .name {
+    font-size: 42px;
+    letter-spacing: .8px;
+  }
 
-### 🤖 Agentic AI & Autonomous Systems
+  .role {
+    font-size: 24px;
+    color: var(--accent);
+    margin-top: 6px;
+  }
 
-- LangChain / LangGraph / CrewAI / AutoGen
-- Multi-agent orchestration & tool-use patterns
-- LLM fine-tuning & RAG pipelines (LlamaIndex, Haystack)
-- Reasoning & planning loops (ReAct, Reflexion, Tree-of-Thought)
-- Evaluation frameworks (LangSmith, DeepEval, Promptfoo)
+  .tagline {
+    font-size: 18px;
+    color: var(--text-muted);
+    margin-top: 10px;
+  }
 
-### ⛓️ Web3 & Blockchain Engineering
+  /* SOCIALS */
+  .socials {
+    margin-top: 16px;
+  }
 
-- Solidity (smart contracts, ERC-20 / ERC-721 / ERC-1155)
-- Hardhat / Foundry / Remix
-- Web3.js / Ethers.js / viem
-- IPFS & Filecoin integration
-- Chainlink oracles • The Graph indexing
-- Layer 2 solutions (Polygon, Arbitrum, Optimism)
+  .socials img {
+    margin: 6px;
+    transition: transform .25s ease, filter .25s ease;
+  }
 
-### 📊 General Engineering Skills
+  .socials img:hover {
+    transform: scale(1.15) rotate(-2deg);
+    filter: brightness(1.2);
+  }
 
-- **Languages**: Python (advanced), SQL, TypeScript/JavaScript
-- **Databases**: PostgreSQL, Snowflake, MongoDB, Redis, DynamoDB
-- **BI & Visualization**: Looker / Looker Studio, Power BI, Metabase
-- **ML basics**: scikit-learn, PyTorch (light), Hugging Face Transformers
+  /* GRID */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 18px;
+    margin-top: 26px;
+  }
 
-## 🧪 Selected Project Highlights
+  /* CARD */
+  .card {
+    background: var(--bg-card);
+    border-radius: 16px;
+    padding: 20px 18px;
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,.05), 0 10px 26px rgba(0,0,0,.35);
+    transition: transform .35s ease, box-shadow .35s ease;
+  }
 
-- **Real-time Supply Chain Analytics Platform**  
-  Kafka → Spark Streaming → Delta Lake → dbt → Snowflake → Looker
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 42px rgba(0,0,0,.55);
+  }
 
-- **Agentic Customer Intelligence Engine**  
-  Multi-agent system (research + summarization + action agents) built with LangGraph & GPT-4o
+  .title {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
 
-- **Decentralized Data Oracle PoC**  
-  Chainlink Functions + IPFS + Solidity contract feeding on-chain analytics
+  ul {
+    margin: 8px 0 0 18px;
+  }
 
-(Links & detailed READMEs available in pinned repositories)
+  li {
+    margin: 6px 0;
+  }
 
-## 📬 Let's Connect
+  /* BADGES */
+  .badge {
+    display: inline-block;
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 6px 12px;
+    border-radius: 999px;
+    margin: 6px 6px 0 0;
+    transition: transform .25s ease, background .25s ease;
+  }
 
-<p align="center">
-  <a href="https://linkedin.com/in/daniyalaneeq">LinkedIn</a> • 
-  <a href="https://x.com/yourusername">X / Twitter</a> • 
-  <a href="mailto:daniyal.aneeq.ahmed@gmail.com">Email</a>
-</p>
+  .badge:hover {
+    transform: translateY(-2px);
+    background: rgba(108,242,194,.25);
+  }
 
-<p align="center">
-  <em>Always open to interesting problems in data engineering, autonomous AI agents, and decentralized data infrastructure.</em>
-</p>
+  .quote {
+    margin-top: 26px;
+    text-align: center;
+    font-size: 18px;
+    opacity: .9;
+  }
+</style>
 
----
-Made with focus & ☁️ in Karachi • Last updated January 2026
+<div class="container handwritten">
+
+  <!-- HERO SECTION -->
+
+  <div class="hero">
+    <div class="name">👋 Daniyal Aneeq Ahmed</div>
+    <div class="role">Cloud Data Engineer</div>
+    <div class="tagline">
+      Designing scalable cloud data platforms, intelligent pipelines, and decentralized integrations.
+    </div>
+
+```
+<div class="socials">
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</div>
+```
+
+  </div>
+
+  <!-- MAIN CONTENT -->
+
+  <div class="grid">
+
+```
+<div class="card">
+  <div class="title">🚀 About Me</div>
+  <ul>
+    <li>Cloud-first Data Engineer focused on scalable solutions</li>
+    <li>Strong understanding of distributed data systems</li>
+    <li>Problem-solver with a production mindset</li>
+    <li>Continuous learner exploring AI & Web3</li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="title">🎯 Niche Skill — Cloud Data Engineering</div>
+  <ul>
+    <li>End-to-end ETL / ELT pipeline design</li>
+    <li>Batch & streaming data workflows</li>
+    <li>Data lakes, lakehouse & warehouse architectures</li>
+    <li>SQL optimization & analytical modeling</li>
+    <li>Data quality, monitoring & governance</li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="title">🤖 Agentic AI</div>
+  <ul>
+    <li>Designing autonomous AI agents</li>
+    <li>LLM-powered data automation</li>
+    <li>Tool-using agents & workflow orchestration</li>
+    <li>Prompt engineering & AI reasoning flows</li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="title">🌐 Web3 & Decentralized Tech</div>
+  <ul>
+    <li>Blockchain & smart contract fundamentals</li>
+    <li>On-chain & decentralized data analytics</li>
+    <li>Web3 integration with cloud systems</li>
+    <li>Understanding of DeFi & decentralized apps</li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="title">🧰 Other Technical Skills</div>
+  <div>
+    <span class="badge">Python</span>
+    <span class="badge">SQL</span>
+    <span class="badge">Bash / Shell</span>
+    <span class="badge">Git & GitHub</span>
+    <span class="badge">CI/CD</span>
+    <span class="badge">Containers</span>
+    <span class="badge">Data Analytics</span>
+  </div>
+</div>
+```
+
+  </div>
+
+  <div class="quote">“Turning data into intelligence, and intelligence into impact.”</div>
+
+</div>
+
+</div>
