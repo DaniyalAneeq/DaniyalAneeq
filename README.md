@@ -1,11 +1,11 @@
 <div align="left">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=36&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=620&lines=Daniyal+Aneeq+Ahmed&cursor=false"
-    alt="Daniyal Aneeq Ahmed"
+    alt="I'm Daniyal Aneeq Ahmed"
   />
   <br><br>
   <span style="color: #94a3b8; font-size: 1.2em; font-weight: 400;">
-    Cloud Data Engineer • Agentic AI • Web3
+    Cloud Data Engineer 
   </span>
 </div>
 
