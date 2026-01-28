@@ -1,7 +1,7 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=42&pause=1000&color=6CF2C2&center=true&vCenter=true&width=700&lines=Daniyal+Aneeq+Ahmed;Cloud+Data+Engineer;Agentic+AI+%7C+Web3" 
-    alt="Daniyal Aneeq Ahmed" 
+  <img
+    src="https://svg-banners.vercel.app/api?type=text&text1=Daniyal%20Aneeq%20Ahmed&fontFamily=Patrick%20Hand&fontSize=48&textColor=ffffff"
+    alt="Daniyal Aneeq Ahmed"
   />
 </p>
 
