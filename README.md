@@ -5,8 +5,8 @@
   />
 </p>
 
-<p align="center" style="font-size: 38px; margin: 10px 0;">
-  <strong>Cloud Data Engineer</strong> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud_Data_Engineer-00C4B4?style=for-the-badge&logo=aws&logoColor=white&labelColor=111827" alt="Cloud Data Engineer" />
 </p>
 
 <div align="center" style="margin: 30px 0;"> <div class="socials"> <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:danialeaneeqahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a> </div> </div><style> .socials { margin-top: 16px; } .socials img { margin: 6px; transition: transform .25s ease, filter .25s ease; } .socials img:hover { transform: scale(1.15) rotate(-2deg); filter: brightness(1.2); } </style>
