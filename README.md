@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://svg-banners.vercel.app/api?type=text&text1=Daniyal%20Aneeq%20Ahmed&fontFamily=Patrick%20Hand&fontSize=48&textColor=ffffff"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=44&pause=1000000&color=000000&center=true&vCenter=true&width=700&lines=Daniyal+Aneeq+Ahmed"
     alt="Daniyal Aneeq Ahmed"
   />
 </p>
