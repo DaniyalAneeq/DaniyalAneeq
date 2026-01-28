@@ -12,8 +12,11 @@
 <br>
 
 <p align="left">
-  <em>expertise in delivering high-performance data infrastructure that directly impacts business outcomes</em>
+  - Expertise in delivering high-performance data infrastructure that directly impacts business outcomes  
+  - Proven success in designing cloud-based data pipelines, implementing scalable data architectures, and optimizing data workflows for efficiency and reliability  
+  - Skilled in leveraging AWS, Snowflake, and SQL Server to transform business requirements into technical solutions that drive measurable improvements in scalability, performance, and data accessibility
 </p>
+
 
 <hr>
 
