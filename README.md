@@ -11,12 +11,22 @@
 <div align="left" style="margin: 30px 0;"> <div class="socials"> <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:danialeaneeqahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a> </div> </div>
 <br>
 
-<p align="left">
-  - Expertise in delivering high-performance data infrastructure that directly impacts business outcomes  
-  - Proven success in designing cloud-based data pipelines, implementing scalable data architectures, and optimizing data workflows for efficiency and reliability  
-  - Skilled in leveraging AWS, Snowflake, and SQL Server to transform business requirements into technical solutions that drive measurable improvements in scalability, performance, and data accessibility
-</p>
-
+<div style="padding-left: 20px; margin: 15px 0;">
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+      <span style="position: absolute; left: 0; color: #2E8B57;">•</span>
+      <strong>Expertise in delivering high-performance data infrastructure</strong> that directly impacts business outcomes
+    </li>
+    <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+      <span style="position: absolute; left: 0; color: #2E8B57;">•</span>
+      <strong>Proven success in designing cloud-based data pipelines</strong>, implementing scalable data architectures, and optimizing data workflows for efficiency and reliability
+    </li>
+    <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+      <span style="position: absolute; left: 0; color: #2E8B57;">•</span>
+      <strong>Skilled in leveraging AWS, Snowflake, and SQL Server</strong> to transform business requirements into technical solutions that drive measurable improvements in scalability, performance, and data accessibility
+    </li>
+  </ul>
+</div>
 
 <hr>
 
