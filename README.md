@@ -40,7 +40,7 @@
 - 
 ### ⛓️ *Web - Technologies*
 
-- *Frameworks*: NextJS, ReactJS 
+- *Frameworks*: NextJS, ReactJS, FastAPI 
 - *Languages*: JavaScript, TypeScript, Python
 - *Libraries*: Tailwind CSS, Shadcn UI 
 
