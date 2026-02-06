@@ -37,10 +37,10 @@
 - Multi-agent orchestration 
 - Tool-use patterns
 - Chatbot Development
-- 
+- FastAPI
 ### ⛓️ *Web - Technologies*
 
-- *Frameworks*: NextJS, ReactJS, FastAPI 
+- *Frameworks*: NextJS, ReactJS, FastAPI
 - *Languages*: JavaScript, TypeScript, Python
 - *Libraries*: Tailwind CSS, Shadcn UI 
 
