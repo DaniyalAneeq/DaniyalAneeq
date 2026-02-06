@@ -1,6 +1,6 @@
 <div align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=36&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=620&lines=Daniyal+Aneeq+Ahmed&cursor=false"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=36&pause=1000000&color=FFFFFF&center=false&vCenter=true&width=620&lines=Danial+Aneeq+Ahmed&cursor=false"
     alt="Danial Aneeq Ahmed"
   />
   <h2 align="left" style="margin-top: 4px; margin-bottom: 28px; color: #8899aa; font-size: 1.1em; font-weight: 500;">
