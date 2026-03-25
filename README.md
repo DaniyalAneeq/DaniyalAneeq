@@ -4,7 +4,7 @@
     alt="Danial Aneeq Ahmed"
   />
   <h2 align="left" style="margin-top: 4px; margin-bottom: 28px; color: #8899aa; font-size: 1.1em; font-weight: 500;">
-    Cloud Data Engineer
+    AI & Cloud Data Engineer
   </h2>
 </div>
 
